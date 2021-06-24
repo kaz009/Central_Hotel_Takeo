@@ -85,11 +85,11 @@ body {
 }
 
 .shop_image{
-  height:100%; 
+  width:100%; 
 }
 
 .image_box{
-  height: 400px;
+  width: 90%;
 }
 
 li{ 
