@@ -85,7 +85,7 @@ body {
 }
 
 .shop_image{
-  width:100%; 
+  object-fit: cover; 
 }
 
 .image_box{
