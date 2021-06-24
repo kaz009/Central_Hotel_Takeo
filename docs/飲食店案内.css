@@ -59,8 +59,8 @@
 
 #menulist a:active, #menulist a:hover {color: var(--color-text-active);}
 
-main{
-
+.title{
+  padding-left: 50px
 }
 
 
